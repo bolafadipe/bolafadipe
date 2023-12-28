@@ -4,9 +4,21 @@
 
 <h4>👩‍💻 About me </h4>
 
-- 📫 How to reach me **boladefadipe17@gmail.com**
+👋 Hello there! I'm Bola, a data analyst with a passion for AI/ML and a background in medicine. Here's a bit about me:
 
-- ⚡ Fun fact **My background is in medicine**
+- 🔬 Former medical professional turned data enthusiast
+- 📊 Skilled in extracting insights from complex datasets
+- 💻 Proficient in coding (Python, SQL, R)
+- 🤖 Interested in the fascinating world of AI/ML
+- 🌐 Always exploring new technologies and data-driven solutions
+- 📈 Dedicated to continuous learning and growth in analytics and machine learning
+- 🎓 Background in medicine fuels my drive for data-driven discoveries
+
+Let's collaborate on exciting data projects! 🚀
+
+
+- 📫 You can reach me on **boladefadipe17@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
