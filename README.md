@@ -1,8 +1,8 @@
-<h3 align="left" font-size=18>Hi! Welcome to my Github profile 👋</h3>
+<h2 align="left" font-size=18>Hi! Welcome to my Github profile 👋</h2>
 
 ***
 
-<h4>👩‍💻 About me </h4>
+<h3>👩‍💻 About me </h3>
 
 👋 Hello there! I'm Bola, a data analyst with a passion for AI/ML and a background in medicine. Here's a bit about me:
 
@@ -17,10 +17,9 @@
 Let's collaborate on exciting data projects! 🚀
 
 
-- 📫 You can reach me on **boladefadipe17@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
+- Email: **boladefadipe17@gmail.com**
+- LinkedIn:
 <p align="left">
 <a href="https://linkedin.com/in/bolafadipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bolafadipe" height="30" width="40" /></a>
 </p>
