@@ -1,4 +1,4 @@
-<h3 align="center">Hi! Welcome to my Github profile 👋</h3>
+<h3 align="left" font-size=18>Hi! Welcome to my Github profile 👋</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bolafadipe" alt="bolafadipe" /></a> </p>
 
